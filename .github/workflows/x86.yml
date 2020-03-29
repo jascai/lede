@@ -10,9 +10,9 @@
 name: 编译openwrt_X86固件
 
 on:
-  # push:
-  #   branches: 
-  #     - master
+  push:
+    branches: 
+      - master
   # schedule:
   #   - cron: 0 20 * * *
   # release:
